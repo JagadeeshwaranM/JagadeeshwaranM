@@ -4,11 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshwaran-m-0a8294176&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshwaran-m-0a82941765" /> </p>
 
-- 🌱 I’m currently working as **Senior Data Engineer**
-
-- 👨‍💻 Check projects on my LinkedIn profile
-
-- 💬 Ask me about **SQL, SparkSQL, Pyspark, Hive, Hadoop and AWS**
+ 👀 I’m interested in:
+ 
+    Cloud Data Engineering - AWS, Azure, GCP, Databricks & Snowflake
+                       
+ 🌱 I’m currently working as:
+     
+     Senior Data Engineer
+ 
+ 💞️ I’m looking to collaborate on:
+ 
+     Any Cloud Data Engineering projects
 
 - 📫 For reaching out **jagaachieve@gmail.com**
 
@@ -33,3 +39,25 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
+
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JagadeeshwaranM&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JagadeeshwaranM&theme=dark&hide_border=true"/>
+  
+</p>
+  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JagadeeshwaranM&label=Profile%20views&color=0e75b6&style=flat" alt="Jaga's Profile Views"> •  
+  <a href="https://user-badge.committers.top/india_private/JagadeeshwaranM"><img src="https://user-badge.committers.top/india_private/JagadeeshwaranM.svg"></a> •
+  <img src="https://img.shields.io/github/followers/JagadeeshwaranM?label=Followers&style=social" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜"> •
+  <img src="https://img.shields.io/github/stars/JagadeeshwaranM?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛"> •
+</p>
+
+
+<!---
+JagadeeshwaranM/JagadeeshwaranM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
