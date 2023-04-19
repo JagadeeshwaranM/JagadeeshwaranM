@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaga alias Jagadeeshwaran M </h1>
 <h3 align="center">A passionate Data Engineer</h3>
 <p style="text-align:center">
-    <a href="https://github.com/JagadeeshwaranM/Data_Engineering_Simplified">**Check out my github repo for stop details in DE space**</a> 
+    <a href="https://github.com/JagadeeshwaranM/Data_Engineering_Simplified">**Bookmark/Star my github repo for all the topics in Data Engineering space**</a> 
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
