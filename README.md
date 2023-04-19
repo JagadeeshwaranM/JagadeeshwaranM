@@ -16,7 +16,7 @@
  
      Any Cloud Data Engineering projects
 
-- 📫 For reaching out **jagaachieve@gmail.com**
+ 📫 For reaching out **jagaachieve@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
