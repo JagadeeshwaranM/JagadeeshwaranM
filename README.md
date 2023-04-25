@@ -13,7 +13,7 @@
                        
  🌱 I’m currently working as:
      
-     Senior Data Engineer
+     Data Engineer
  
  💞️ I’m looking to collaborate on:
  
